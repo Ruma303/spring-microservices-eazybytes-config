@@ -3,7 +3,7 @@ build:
 
 # Altre info
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs"
+  message: "Welcome to EazyBank accounts related production APIs"
   contactDetails:
     name: "John Doe - Developer"
     email: "{cipher}4502e81b75823a20e04d2f8bc42c029d3cc494ecf0ccd581667ab9e1b209abf39cec9ea95200fda46b3e85a45fe2d684"
